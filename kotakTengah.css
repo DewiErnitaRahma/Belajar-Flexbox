@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cadetblue;
+}
+
+
+.kotak{
+    width: 200px;
+    height: 200px;
+    background-color: whitesmoke;
+    box-shadow: 8px 8px 8px #00000078;
+}
